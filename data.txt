@@ -1,0 +1,104 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@ysanchez3d 
+ysanchez3d
+/
+Workout
+Public
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+Workout/data.txt
+@ysanchez3d
+ysanchez3d Initial commit
+Latest commit ba11d9d yesterday
+ History
+ 1 contributor
+60 lines (60 sloc)  3.27 KB
+
+ARNOLD PRESS: https://www.youtube.com/watch?v=zOpA1Op0zvc
+BACK SQUAT: https://youtu.be/bEv6CCg2BC8?t=147
+BARBELL 45° HYPEREXTENSION: https://youtu.be/J46aPqFl0WE?t=178
+BARBELL BENCH PRESS: https://youtu.be/vcBig73ojpE?t=134
+BARBELL CLOSE-GRIP BENCH PRESS: https://youtu.be/xGfUcV11x5g
+BARBELL INCLINE PRESS: https://youtu.be/k1S_Any3NIA?t=475
+BARBELL OVERHEAD PRESS: https://youtu.be/_RlRDWO2jfg?t=121
+BARBELL PUSH PRESS: https://www.youtube.com/watch?v=ep30avTSMB0&t=177
+BULGARIAN SPLIT SQUAT: https://youtu.be/htDXu61MPio
+CABLE CLOSE-GRIP ROW: https://youtu.be/FbWfA_s0XL8?t=273
+CABLE CRUNCH: https://youtu.be/2RrGnjxSsiA?t=124
+CABLE FLYE 21S: https://www.youtube.com/watch?v=-EIhKMDSjBY
+CABLE PULL-THROUGH: https://www.youtube.com/watch?v=NV8oPOpLsQU
+CABLE TRICEPS KICKBACK: https://youtu.be/94DXwlcX8Po?t=327
+CABLE UPRIGHT ROW: https://youtu.be/nwkLwMRHMQo?t=230
+CALIFORNIA PRESS: https://www.youtube.com/watch?v=fCUeeaWBBSs
+CHEST-SUPPORTED T-BAR ROW: https://youtu.be/160n9FBX84s
+CONVENTIONAL DEADLIFT: https://youtu.be/VL5Ab0T07e4?t=175
+DEFICIT DEADLIFT: https://youtu.be/OPEDjl88P-4?t=369
+DIP: https://youtu.be/yN6Q1UI_xkE?t=75
+DUMBBELL ROW: https://youtu.be/djKXLt7kv7Q?t=116
+DUMBBELL STEP-UP: https://youtu.be/cP77gUDvAPA?t=745
+DUMBBELL WALKING LUNGE: https://youtu.be/Y4Vv2ASsyhs?t=536
+ECCENTRIC OVERLOADED LEG EXTENSION: https://youtu.be/7Pep2_4nhgE?t=578
+EZ BAR CURL 21S: https://www.youtube.com/watch?v=Dd0t5UOCEUc
+FLOOR SKULL CRUSHER: https://youtu.be/popGXI-qs98?t=153
+FRONT SQUAT: https://youtu.be/v-mQm_droHg?t=135
+GOOD MORNING: https://youtu.be/f23vXjoG2e8?t=119
+HAMMER CURL: https://youtu.be/Kd3tbUnbueU
+HANGING LEG RAISE: https://youtu.be/2RrGnjxSsiA?t=247
+HIP THRUST: https://youtu.be/xDmFkJxPzeM?t=97
+KNEE-BANDED LEG PRESS: https://youtu.be/7H-KpNTYw_k?t=270
+LAT PULLDOWN: https://youtu.be/O94yEoGXtBY?t=150
+LEG EXTENSION: https://youtu.be/ljO4jkwv8wQ?t=202
+LEG PRESS: https://youtu.be/didU4ZwAkPI?t=241
+LYING LEG CURL: https://www.youtube.com/ watch?v=e_48W0vlU58&feature=youtu.be
+MACHINE CHEST PRESS: https://youtu.be/k1S_Any3NIA?t=240
+MACHINE CHEST-SUPPORTED ROW W/ BAND: https://www.youtube.com/watch?v=9B-5irFdB3c&t=388
+MACHINE HIGH ROW: https://www.youtube.com/watch?v=QH2s6F-oVNM
+MACHINE HIP ABDUCTION: https://youtu.be/zfUWbpdjczg
+MACHINE LATERAL RAISE: https://www.youtube.com/watch?v=0o07iGKUarI
+MACHINE SHOULDER PRESS: https://www.youtube.com/watch?v=flr4ohSl0j8
+NEUTRAL-GRIP PULL-UP: https://youtu.be/Zr8hHd2Q2Eo?t=17
+PAUSE DUMBBELL INCLINE PRESS: https://www.youtube.com/watch?v=p2t9daxLpB8
+PEC DECK: https://youtu.be/-EIhKMDSjBY?t=151
+PENDLAY ROW: https://youtu.be/axoeDmW0oAY?t=185
+PLANK: https://youtu.be/1G0y8D5rFDc?t=111
+PULL-UP: https://youtu.be/Hdc7Mw6BIEE?t=155
+PUSH-UP: https://youtu.be/-MRNjTr6xrE?t=715
+REVERSE HYPER: https://youtu.be/Vi5hwm0_NfQ?t=131
+ROPE OVERHEAD TRICEPS EXTENSION: https://youtu.be/qIW3z-ydg-M
+SEATED LEG CURL: https://youtu.be/2CMmuH4qJh0
+SINGLE-LEG LEG EXTENSION: https://youtu.be/Y4Vv2ASsyhs?t=573
+SLIDING LEG CURL: https://youtu.be/0a_fVS2s4Ho?t=247
+STANDING CALF RAISE: https://youtu.be/-qsRtp_PbVM?t=162
+STIFF LEG DEADLIFT: https://youtu.be/_oyxCn2iSjU?t=47
+SUMO DEADLIFT: https://youtu.be/XsrD5y8EIKU?t=160
+SUPINATED DUMBBELL CURL: https://youtu.be/i1YgFZB6alI?t=487
+SUPINATED LAT PULLDOWN: https://youtu.be/O94yEoGXtBY?t=316
+WEIGHTED CRUNCH: https://youtu.be/2RrGnjxSsiA?t=124
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+You have unread notifications
