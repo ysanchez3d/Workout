@@ -1,4 +1,4 @@
-body, div, ul, li {
+body, div, ul, li, hr {
     margin: 0;
     padding: 0;
     text-align: center;
@@ -22,6 +22,7 @@ input {
 
 ul {
     list-style: none;
+    margin-top: 300px;
 }
 
 ul li {
@@ -77,3 +78,16 @@ ul li:hover {
   .dropdown:hover .dropdown-content {display: block;}
   
   .dropdown:hover .dropbtn {background-color: #3e8e41;}
+
+
+  .fixed {
+    padding-top: 30px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    background-color: #fff;
+  }
+
+  hr {
+    margin-top: 10px;
+  }
